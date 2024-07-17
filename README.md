@@ -8,8 +8,6 @@ I've been learning Python & Dart for 2 years
 
 * 🌍  I'm based in Laos
 
-<a href="https://www.github.com/xaiykham" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/xaiykham?logo=github&style=for-the-badge&color=a855f7&labelColor=27272a" /></a>
 ### Skills
 
 <p align="left">
@@ -23,6 +21,4 @@ src="https://img.shields.io/github/followers/xaiykham?logo=github&style=for-the-
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/xaiykham"><img src="https://github-readme-stats.vercel.app/api?username=xaiykham&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=a855f7&bg_color=27272a&hide_border=true&show_icons=true" alt="xaiykham's GitHub stats" /></a>
-
-<a href="https://github.com/xaiykham" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xaiykham&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=a855f7&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/xaiykham"><img src="https://github-readme-streak-stats.herokuapp.com/?user=xaiykham&stroke=ffffff&background=27272a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
